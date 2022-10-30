@@ -1,0 +1,17 @@
+
+{
+"name": "baccaratdeluxe",
+"theme": "baccarat deluxe",
+"version": "8.10.6",
+"description": "baccarat deluxe ทางเข้าหลักเว็บไซต์พนันเว็บตรง คนเล่นเยอะ รับเครดิตฟรี",
+"keywords": [
+"baccarat deluxe",
+"baccarat deluxe เครดิตฟรี",
+"baccarat deluxe ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/baccaratdeluxe",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
